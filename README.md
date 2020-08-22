@@ -1,11 +1,12 @@
-<img align="center" src="images/header.gif" alt="bruqus" />
-##### I usually plan plans, optimize optimizations, program programs, improve improvements, code code
+<div align="center"><img width="100%" src="https://github.com/bruqus/bruqus/blob/master/images/header.gif" alt="bruqus" /></div>
 
-> **🔭 I’m currently working on [screencast-vue](https://github.com/bruqus/screencast-vue)**
-> **🌱 I’m currently learning nuxt, vuetify**
-> **👨‍💻 All of my projects are available at [github](https://github.com/bruqus)**
-> **💬 Ask me about vue, js**
-> **⚡ Fun fact: The "parent" can kill his "children" if their task is completed**
+<h5>I usually plan plans, optimize optimizations, program programs, improve improvements, code code</h5>
+
+> - **🔭 I’m currently working on [screencast-vue](https://github.com/bruqus/screencast-vue)**
+> - **🌱 I’m currently learning nuxt, vuetify** 
+> - **👨‍💻 All of my projects are available at [github](https://github.com/bruqus)**
+> - **💬 Ask me about frontend development**
+> - **⚡ Fun fact: The "parent" can kill his "children" if their task is completed**
 ---
 <details>
   <summary>Github Stats</summary>
