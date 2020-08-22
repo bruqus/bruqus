@@ -1,6 +1,6 @@
 <div align="center"><img width="100%" src="https://github.com/bruqus/bruqus/blob/master/images/header.gif" alt="bruqus" /></div>
 
-<h5>I usually plan plans, optimize optimizations, program programs, improve improvements, code code</h5>
+<h4>I usually plan plans, optimize optimizations, program programs, improve improvements, code code</h4>
 
 > - **🔭 I’m currently working on [screencast-vue](https://github.com/bruqus/screencast-vue)**
 > - **🌱 I’m currently learning nuxt, vuetify** 
