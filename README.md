@@ -2,11 +2,11 @@
 
 <h4>I usually plan plans, optimize optimizations, program programs, improve improvements, code code</h4>
 
-> - **🔭 I’m currently working on [screencast-vue](https://github.com/bruqus/screencast-vue)**
-> - **🌱 I’m currently learning nuxt, vuetify** 
+> - **🔭 I’m currently working on [screencast-nuxt](https://github.com/bruqus/screencast-nuxt)**
+> - **🌱 I’m currently learning GraphQL, TypeScript** 
 > - **👨‍💻 All of my projects are available at [github](https://github.com/bruqus)**
 > - **💬 Ask me about frontend development**
-> - **⚡ Fun fact: The "parent" can kill his "children" if their task is completed**
+> - **⚡ Fun fact: the letter "h" in the word "programming" means happiness**
 ---
 <details>
   <summary>Github Stats</summary>
