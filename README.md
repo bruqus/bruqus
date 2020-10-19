@@ -1,7 +1,7 @@
 <div align="center"><img width="100%" src="https://github.com/bruqus/bruqus/blob/master/images/header.gif" alt="bruqus" /></div>
 <h4>I usually plan plans, optimize optimizations, program programs, improve improvements, code code</h4>
 
-**🔭 I’m currently working on [screencast-nuxt](https://github.com/bruqus/screencast-nuxt)**
+**🔭 I’m currently working on [financial-controller-server](https://github.com/bruqus/financial-controller-server)**
 
 **🌱 I’m currently learning GraphQL, TypeScript** 
 
